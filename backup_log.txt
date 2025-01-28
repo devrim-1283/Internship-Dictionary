@@ -1,0 +1,13 @@
+2025-01-28 14:50:38 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 14:50:38 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 14:50:38 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 14:50:38 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 14:50:44 - INFO - Klasör düzenleme kontrolleri etkinleþtirildi
+2025-01-28 14:50:44 - INFO - Listeden öðe seçildi
+2025-01-28 14:50:45 - INFO - Listeden öðe seçildi
+2025-01-28 14:50:45 - INFO - Listeden silinen öðe: C:\Users\devri\Desktop
+2025-01-28 14:50:45 - INFO - Klasör düzenleme kontrolleri devre dýþý býrakýldý
+2025-01-28 14:50:46 - INFO - Yedekleniyor: C:\Users\devri\Documents
+2025-01-28 14:50:46 - INFO - Klasör yedeklendi: C:\Users\devri\Documents
+2025-01-28 14:50:46 - INFO - Klasör düzenleme kontrolleri devre dýþý býrakýldý
+2025-01-28 14:50:46 - INFO - Yedekleme tamamlandý. Kopyalanan: 1, Atlanan: 0
