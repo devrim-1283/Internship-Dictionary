@@ -82,3 +82,40 @@
 2025-01-28 16:25:35 - INFO - Initial states set
 2025-01-28 16:25:35 - INFO - Default folders added
 2025-01-28 16:25:35 - INFO - Default password loaded
+2025-01-28 16:49:07 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:49:07 - INFO - Initial states set
+2025-01-28 16:49:07 - INFO - Default folders added
+2025-01-28 16:49:07 - INFO - Default password loaded
+2025-01-28 16:49:11 - INFO - Backing up: C:\Users\devri\Desktop
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.idx
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.pack
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.rev
+2025-01-28 16:49:17 - INFO - Stopping backup process...
+2025-01-28 16:49:17 - INFO - Folder editing controls disabled
+2025-01-28 16:49:17 - INFO - Backup stopped by user
+2025-01-28 16:49:17 - INFO - Stopping backup process...
+2025-01-28 16:49:17 - INFO - Folder editing controls disabled
+2025-01-28 16:49:17 - INFO - Backup completed. Copied: 0, Skipped: 0
+2025-01-28 16:49:19 - INFO - Backing up: C:\Users\devri\Desktop
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\14\539b06444d0db16c4bd935e5b8f61a2abd4f36
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\15\3f0d83b08d7fecf86f1d520094667754a90321
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\18\b3f60d1e8e61ed55e3da4b03507fd05f3d832c
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\2c\b45e2dc2d1723d8a4045dd270bb3ccb3946608
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\36\94a51b87cbaba41338f9e0ea34a44ea15fa81a
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\42\936c90bafa8343cda93506f2cdbd94940a831d
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\52\1bb35cf1099049df7a5a8407f48cac827cbf02
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\5b\a85b9d6b9045faba3d3b7c10564348e0a2dbd6
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\63\bf3c305c5bd6ebcbee5f4dff9847a6db7ca446
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\a2\896e5896d9446dcfbe2d569a54c98ce159b14e
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d0\3d74829eda0b5a9bc0b5d84047c723d16eed47
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d6\a3035739755e182064448900afff7edee78a32
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d8\9087fdc27ac452db343a8141d406cbf3fbcddd
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.idx
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.pack
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.rev
+2025-01-28 16:49:21 - INFO - Stopping backup process...
+2025-01-28 16:49:22 - INFO - Folder editing controls disabled
+2025-01-28 16:49:22 - INFO - Backup stopped by user
+2025-01-28 16:49:22 - INFO - Stopping backup process...
+2025-01-28 16:49:22 - INFO - Folder editing controls disabled
+2025-01-28 16:49:22 - INFO - Backup completed. Copied: 0, Skipped: 0
