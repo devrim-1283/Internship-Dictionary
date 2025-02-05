@@ -49,7 +49,7 @@ Once the installation is complete:
 
 If you encounter any issues or need assistance:
 - [devrimtuncer@gmail.com]
-- [My LinkedIn Profile](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## License
 
@@ -108,7 +108,7 @@ Kurulum tamamlandığında:
 
 Herhangi bir sorun yaşarsanız veya yardıma ihtiyacınız olursa:
 - [devrimtuncer@gmail.com]
-- [Linkledin Hesabım](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## Lisans
 

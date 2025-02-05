@@ -46,11 +46,12 @@ After starting the application, you can select the folders you want to back up a
 ## Contact
 
 If you have any questions or feedback, please contact me:
-- [Add your email address here]
+- [devrimtuncer@gmail.com]
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## License
 
-This project is licensed under the [Add your license information here] license.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -102,8 +103,8 @@ Uygulamayı başlattıktan sonra, yedeklemek istediğiniz klasörleri seçebilir
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
-- [E-posta adresinizi buraya ekleyin]
-
+- [devrimtuncer@gmail.com]
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 ## Lisans
 
-Bu proje, [Lisans bilgilerinizi buraya ekleyin] lisansı altında lisanslanmıştır. 
+Bu proje, [MIT License](LICENSE) lisansı altında lisanslanmıştır. 

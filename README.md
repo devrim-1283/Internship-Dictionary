@@ -35,7 +35,7 @@ This document summarizes the projects I developed during my internship and the t
 
 If you have any questions or feedback, please contact me:
 - [devrimtuncer@gmail.com]
-- [My LinkedIn Profile](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## License
 
@@ -78,7 +78,7 @@ Bu dosya, staj süresince geliştirdiğim projeleri ve bu projelerde kullanılan
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
 - [devrimtuncer@gmail.com]
-- [Linkledin Hesabım](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## Lisans
 
