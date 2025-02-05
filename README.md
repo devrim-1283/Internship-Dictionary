@@ -1,85 +1,63 @@
-# Internship Projects
+# Project Repository
 
-This document summarizes the projects I developed during my internship and the technologies used in these projects. During my internship, I worked on two main projects: Annual Leave Entitlement Calculator and Backup Application.
+This repository contains the projects I developed during all my internships. Each project has helped me better understand software development processes and gain experience working with different technologies.
 
-## Projects
+## Internship 1: Marmara Turk and Global Turk
 
-### 1. Annual Leave Entitlement Calculator
+My first internship is ongoing at Marmara Turk and Global Turk companies. During this internship, I developed various projects, and you can find the main files of these projects in this repository. My projects have helped me better understand software development processes and gain experience working with different technologies.
 
-- **Purpose**: To calculate the annual leave entitlements of employees based on their working duration.
-- **Technologies Used**:
-  - **Python**: The main programming language of the project.
-  - **Tkinter**: Python's standard GUI library used for creating the user interface.
-  - **SQLite**: A lightweight and local database used for database operations.
-  - **Pandas**: A data analysis library used for processing data and exporting to Excel files.
-- **Features**:
-  - User-friendly interface.
-  - Record management with database integration.
-  - Detailed leave calculation and Excel export.
+### Projects I Developed
 
-### 2. Backup Application
+1. **Backup Application (Linux and Windows)**
+   - **Description:** This project allows users to back up specific folders. It offers compression and encryption options during the backup process.
+   - **Features:**
+     - Detecting removable disks and performing backups.
+     - Compression and encryption options during the backup process.
+     - Easy use with a user interface.
+   - **Technologies Used:** Python, PyQt5, psutil, pyminizip, pyzipper
 
-- **Purpose**: To backup, compress, and encrypt files.
-- **Technologies Used**:
-  - **Python**: The main programming language of the project.
-  - **PyQt5**: Used for creating the user interface.
-  - **psutil**: Used for obtaining system information.
-  - **shutil**: Used for file and directory operations.
-  - **zipfile** and **pyminizip**: Used for compressing and encrypting files.
-- **Features**:
-  - Multi-platform support (Linux and Windows).
-  - User-friendly interface.
-  - Removable disk support and logging.
+2. **Annual Leave Entitlement Calculation**
+   - **Description:** This project helps employees calculate their annual leave entitlements. Users can learn their leave rights by entering their working hours and weekly working days.
+   - **Features:**
+     - Calculating leave based on working hours and weekly working days.
+     - Saving calculation results and exporting them in Excel format.
+     - Easy use with a user interface.
+   - **Technologies Used:** Python, Tkinter, SQLite, Pandas
 
-## Contact
+### Internship References
 
-If you have any questions or feedback, please contact me:
-- [devrimtuncer@gmail.com]
-- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+- **Servet Tunçer**: [LinkedIn Profile](https://www.linkedin.com/in/servet-tun%C3%A7er-0bb377238/)
 
-## License
+This repository was created to showcase the experiences I gained and the projects I developed during my internship. I plan to add more internships and projects in the future. Thank you for your feedback and suggestions.
 
-These projects are licensed under the [MIT License](LICENSE).
+# Proje Deposu
 
-# Staj Projeleri
+Bu depo, yapmış olduğum tüm stajlarda geliştirdiğim projeleri içermektedir. Her bir proje, yazılım geliştirme süreçlerini daha iyi anlamama ve farklı teknolojilerle çalışma deneyimi kazanmama yardımcı olmuştur.
 
-Bu dosya, staj süresince geliştirdiğim projeleri ve bu projelerde kullanılan teknolojileri özetlemektedir. Stajım boyunca iki ana proje üzerinde çalıştım: Yıllık İzin Hakediş Hesaplayıcı ve Backup Uygulaması.
+## Staj 1: Marmara Turk and Global Turk
 
-## Projeler
+İlk stajım Marmara Turk ve Global Turk şirketlerinde devam etmektedir. Bu staj süresince çeşitli projeler geliştirdim ve bu projelerin ana dosyalarını bu depoda bulabilirsiniz. Projelerim, yazılım geliştirme süreçlerini daha iyi anlamama ve farklı teknolojilerle çalışma deneyimi kazanmama yardımcı oldu.
 
-### 1. Yıllık İzin Hakediş Hesaplayıcı
+### Geliştirdiğim Projeler
 
-- **Amaç**: Çalışanların çalışma sürelerine göre yıllık izin hakedişlerini hesaplamak.
-- **Kullanılan Teknolojiler**:
-  - **Python**: Projenin temel programlama dili.
-  - **Tkinter**: Kullanıcı arayüzü oluşturmak için kullanılan Python'un standart GUI kütüphanesi.
-  - **SQLite**: Veritabanı işlemleri için kullanılan hafif ve yerel bir veritabanı.
-  - **Pandas**: Verilerin işlenmesi ve Excel dosyalarına aktarılması için kullanılan veri analizi kütüphanesi.
-- **Özellikler**:
-  - Kullanıcı dostu arayüz.
-  - Veritabanı entegrasyonu ile kayıt yönetimi.
-  - Detaylı izin hesaplama ve Excel dışa aktarım.
+1. **Backup Uygulaması (Linux ve Windows)**
+   - **Açıklama:** Bu proje, kullanıcıların belirli klasörleri yedeklemesine olanak tanır. Yedekleme işlemi sırasında sıkıştırma ve şifreleme seçenekleri sunar.
+   - **Özellikler:**
+     - Çıkarılabilir diskleri algılama ve yedekleme yapma.
+     - Yedekleme işlemi sırasında sıkıştırma ve şifreleme seçenekleri.
+     - Kullanıcı arayüzü ile kolay kullanım.
+   - **Kullanılan Teknolojiler:** Python, PyQt5, psutil, pyminizip, pyzipper
 
-### 2. Backup Uygulaması
+2. **Yıllık İzin Hakediş Hesaplama**
+   - **Açıklama:** Bu proje, çalışanların yıllık izin hakedişlerini hesaplamalarına yardımcı olur. Kullanıcılar, çalışma sürelerini ve haftalık çalışma günlerini girerek izin haklarını öğrenebilirler.
+   - **Özellikler:**
+     - Çalışma süresi ve haftalık çalışma gününe göre izin hesaplama.
+     - Hesaplama sonuçlarını kaydetme ve Excel formatında dışa aktarma.
+     - Kullanıcı arayüzü ile kolay kullanım.
+   - **Kullanılan Teknolojiler:** Python, Tkinter, SQLite, Pandas
 
-- **Amaç**: Dosyaların yedeklenmesi, sıkıştırılması ve şifrelenmesi.
-- **Kullanılan Teknolojiler**:
-  - **Python**: Projenin temel programlama dili.
-  - **PyQt5**: Kullanıcı arayüzü oluşturmak için.
-  - **psutil**: Sistem bilgilerini almak için.
-  - **shutil**: Dosya ve dizin işlemleri için.
-  - **zipfile** ve **pyminizip**: Dosyaları sıkıştırmak ve şifrelemek için.
-- **Özellikler**:
-  - Çoklu platform desteği (Linux ve Windows).
-  - Kullanıcı dostu arayüz.
-  - Çıkarılabilir disk desteği ve loglama.
+### Staj Referanslarım
 
-## İletişim
+- **Servet Tunçer**: [LinkedIn Profili](https://www.linkedin.com/in/servet-tun%C3%A7er-0bb377238/)
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
-- [devrimtuncer@gmail.com]
-- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
-
-## Lisans
-
-Bu projeler, [MIT License](LICENSE) lisansı altında lisanslanmıştır. 
+Bu depo, staj süresince edindiğim deneyimleri ve geliştirdiğim projeleri sergilemek amacıyla oluşturulmuştur. İlerleyen zamanlarda daha fazla staj ve proje eklemeyi planlıyorum. Geri bildirimleriniz ve önerileriniz için teşekkür ederim.
