@@ -1,3 +1,62 @@
+# Backup Application Installation Guide (Linux)
+
+## Requirements
+
+Before installation, ensure the following software is installed on your computer:
+
+1. Python 3.6 or higher
+   - Python is usually pre-installed on most Linux distributions
+
+## Installation Steps
+
+1. Download the files to your computer
+   - `install.py`
+   - `main.py`
+   - `backup_ui.py`
+   - `icon_backup.png` (optional)
+   - Ensure all files are in the same folder
+
+2. Start the installation
+   - Open the terminal and navigate to the directory where the files are located
+   - Run the following command to start the installation:
+     ```bash
+     python3 install.py
+     ```
+
+3. Follow the installation wizard
+   - Necessary files will be copied and configuration files will be created automatically
+
+## Post-Installation
+
+Once the installation is complete:
+- The program will be installed in the `~/.local/share/backup-app` directory
+- An executable file will be created in the `~/.local/bin` directory
+- An entry will be created in the application menu
+
+## Troubleshooting
+
+1. If you receive an "Error: Required file not found" message:
+   - Ensure all necessary files are in the same folder
+
+2. If the icon does not appear in the application menu:
+   - Try logging out and logging back in
+
+3. If you encounter errors during installation:
+   - Check the error messages in the terminal
+   - Ensure the necessary permissions are granted
+
+## Contact
+
+If you encounter any issues or need assistance:
+- [devrimtuncer@gmail.com]
+- [My LinkedIn Profile](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+
+## License
+
+[MIT License](LICENSE)
+
+---
+
 # Backup Uygulaması Kurulum Kılavuzu (Linux)
 
 ## Gereksinimler
@@ -48,8 +107,9 @@ Kurulum tamamlandığında:
 ## İletişim
 
 Herhangi bir sorun yaşarsanız veya yardıma ihtiyacınız olursa:
-[İletişim bilgilerinizi buraya ekleyin]
+- [devrimtuncer@gmail.com]
+- [Linkledin Hesabım](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## Lisans
 
-[Lisans bilgilerinizi buraya ekleyin] 
+[MIT Lisansı](LICENSE) 

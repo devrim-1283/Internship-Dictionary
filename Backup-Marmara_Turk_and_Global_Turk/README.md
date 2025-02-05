@@ -1,3 +1,59 @@
+# Backup Application
+
+This application is a tool developed to back up your files. It can run on both Linux and Windows operating systems.
+
+## Features
+
+- **Cross-Platform Support**: The application can run on both Linux and Windows.
+- **User-Friendly Interface**: A graphical user interface developed with PyQt5.
+- **Backup and Compression**: Offers compression and encryption options while backing up your files.
+- **Removable Disk Support**: Automatically detects removable disks like USB drives.
+- **Logging**: Records events that occur during backup operations.
+
+## Libraries Used
+
+- **PyQt5**: For creating the user interface.
+- **psutil**: To obtain system information.
+- **shutil**: For file and directory operations.
+- **zipfile** and **pyminizip**: For compressing and encrypting files.
+- **json**: To read and write configuration files.
+- **logging**: To record application events.
+
+## Installation
+
+### Windows
+
+1. Install Python 3.8 or higher.
+2. Install the required Python packages:
+   ```bash
+   pip install PyQt5 psutil pyminizip
+   ```
+3. Run the `installer.py` file to install the application.
+
+### Linux
+
+1. Install Python 3.6 or higher.
+2. Install the required Python packages:
+   ```bash
+   pip install PyQt5 psutil pyminizip
+   ```
+3. Run the `install.py` file to install the application.
+
+## Usage
+
+After starting the application, you can select the folders you want to back up and set compression and encryption options. The progress and logs are displayed during the backup process.
+
+## Contact
+
+If you have any questions or feedback, please contact me:
+- [Add your email address here]
+
+## License
+
+This project is licensed under the [Add your license information here] license.
+
+---
+
 # Backup Uygulaması
 
 Bu uygulama, dosyalarınızı yedeklemek için geliştirilmiş bir araçtır. Hem Linux hem de Windows işletim sistemlerinde çalışabilir.

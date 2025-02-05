@@ -1,3 +1,37 @@
+# Annual Leave Entitlement Calculator
+
+This project is an annual leave entitlement calculator application developed for the company where I interned. The application helps calculate annual leave entitlements based on employees' working durations.
+
+## Technologies and Libraries Used
+
+- **Python**: The main programming language of the project.
+- **Tkinter**: Python's standard GUI library used to create the user interface.
+- **SQLite**: A lightweight and local database used for database operations.
+- **Pandas**: A data analysis library used for processing data and exporting to Excel files.
+- **Openpyxl**: A Python library used to create and edit Excel files.
+
+## Features
+
+- **User-Friendly Interface**: A user-friendly and interactive interface created with Tkinter.
+- **Database Integration**: Employee information and leave records are stored using SQLite.
+- **Calculation Details**: Detailed leave calculation based on working duration and weekly working days.
+- **Record Management**: Adding, searching, and deleting employee leave records.
+- **Excel Export**: Exporting recorded data as an Excel file.
+
+## Developer Notes
+
+This application is customized according to the needs of the company where I interned. The user interface and functionality have been developed based on the company's feedback. The application can be easily extended and customized thanks to Python's flexibility.
+
+## Contact
+
+If you have any questions or feedback, please contact me:
+- [devrimtuncer@gmail.com]
+- [My LinkedIn Profile](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 # Yıllık İzin Hakediş Hesaplayıcı
 
 Bu proje, staj yaptığım şirket için geliştirilmiş bir yıllık izin hakediş hesaplayıcı uygulamasıdır. Uygulama, çalışanların çalışma sürelerine göre yıllık izin hakedişlerini hesaplamaya yardımcı olur.
@@ -25,9 +59,9 @@ Bu uygulama, staj yaptığım şirketin ihtiyaçlarına göre özelleştirilmiş
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
-- [E-posta adresinizi buraya ekleyin]
-- [Diğer iletişim bilgilerinizi buraya ekleyin]
+- [devrimtuncer@gmail.com]
+- [Linkledin Hesabım](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
 
 ## Lisans
 
-Bu proje, [Lisans bilgilerinizi buraya ekleyin] lisansı altında lisanslanmıştır. 
+Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır. 
