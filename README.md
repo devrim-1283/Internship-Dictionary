@@ -24,6 +24,13 @@ My first internship is ongoing at Marmara Turk and Global Turk companies. During
      - Easy use with a user interface.
    - **Technologies Used:** Python, Tkinter, SQLite, Pandas
 
+## Contact
+
+If you have any questions or feedback, please contact me:
+- [devrimtuncer@gmail.com]
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+
+
 ### Internship References
 
 - **Servet Tunçer**: [LinkedIn Profile](https://www.linkedin.com/in/servet-tun%C3%A7er-0bb377238/)
@@ -55,6 +62,14 @@ Bu depo, yapmış olduğum tüm stajlarda geliştirdiğim projeleri içermektedi
      - Hesaplama sonuçlarını kaydetme ve Excel formatında dışa aktarma.
      - Kullanıcı arayüzü ile kolay kullanım.
    - **Kullanılan Teknolojiler:** Python, Tkinter, SQLite, Pandas
+
+
+## İletişim
+
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:
+- [devrimtuncer@gmail.com]
+- [Devrim Tuncer](https://www.linkedin.com/in/devrim-tun%C3%A7er-218a55320/)
+
 
 ### Staj Referanslarım
 
